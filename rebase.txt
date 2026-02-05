@@ -1,0 +1,6 @@
+Myself Divakar, an SDE with hands-on experience in Java, Spring Boot, and microservices 
+architecture. I have a strong background in developing scalable and efficient applications,
+ and I am passionate about learning new technologies and improving my coding skills. 
+ I am currently working on a project that involves building a microservices-based application 
+ using Spring Boot and Docker. I am excited to continue growing my expertise in software 
+ development and contributing to innovative projects.
